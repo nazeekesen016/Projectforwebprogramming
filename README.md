@@ -21,3 +21,5 @@ As I have mentioned before you can use it as a To-Do List, because it will show 
 For this application were used JavaScript, HTML and CSS.
 
 On the background were set pictures of International Alatoo University. (There were added 3 photos)
+
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=UFtRlk-2JQU)](https://www.youtube.com/watch?v=UFtRlk-2JQU "Everything Is AWESOME")
